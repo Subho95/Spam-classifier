@@ -1,2 +1,2 @@
 # Spam-classifier
-Using Naive Bayes and SVM
+Using Naive Bayes and SVM and compare their performances.
